@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+Hi Mookjiri!
+My name is kullaphorn
